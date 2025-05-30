@@ -1,4 +1,4 @@
-#K8-Cluster
+# K8-Cluster
 This project includes all scripts, yaml, and other misc. configuration files for my kubernetes and proxmox setup at MIE.
 
 ## Network Diagram
